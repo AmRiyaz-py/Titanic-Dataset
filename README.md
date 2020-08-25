@@ -6,4 +6,4 @@ This repository consist of details of passengers of Titanic ship which met with 
 
 +Visualising the dataset which is available on Kaggle.com
 
-===========
+          ===========
