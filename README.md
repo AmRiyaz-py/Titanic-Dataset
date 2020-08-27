@@ -20,6 +20,9 @@ This repository consist of details of passengers of Titanic ship which met with 
 
 +Testing
 
-          -> Dataset organised on the cells of Jupyter Notebook 
-          -> 
-          ===========
+          -> Dataset organised on the cells of Jupyter Notebook on Visual Studio Code
+          -> Python 3.8.5
+          -> Liberary used -> pandas, numpy, sklearn, matplotlib, seaborn
+         
+
+                                ===========
