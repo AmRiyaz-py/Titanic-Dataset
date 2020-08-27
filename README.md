@@ -6,4 +6,18 @@ This repository consist of details of passengers of Titanic ship which met with 
 
 +Visualising the dataset which is available on Kaggle.com
 
++Predict survival on the Titanic
+
++Defining the problem statement
+
++Collecting the data
+
++Exploratory data analysis
+
++Feature engineering
+
++Modelling
+
++Testing
+
           ===========
